@@ -12,9 +12,14 @@ dotenv.load_dotenv()
 openai.api_key = os.getenv("OPENAI_TOKEN")
 client = discord.Client(intents=discord.Intents.all())
 contextLimit = 400
-studBudDescription = "You are StudBud, a study buddy assistant who wants to help people stick with studying in the long term, specifically me, Jacob. Be nice, keep messages short, and be a friend to me."
+studBudDescription = "You are StudBud, a study buddy assistant who wants to help people stick with studying in the long term, specifically me, Jacob. Be nice, keep messages short, and be a friend to me. Don't start responses with introductions like 'Hey Jacob!'"
 discordUsername = os.getenv('DISCORD_USERNAME')
 
+# model = "gpt-3.5-turbo"
+model = "gpt-4-0613"
+if model.startswith("gpt-3.5"):
+    contextLimit = 8000
+totalCost = 0
 lastMsg = None
 longTermMemory = ""
 with open('memories/memory1.txt', 'w') as f:
@@ -22,6 +27,7 @@ with open('memories/memory1.txt', 'w') as f:
 
 #Basic chat with gpt
 def chat(text):
+    global totalCost, model
     conversation = [
         {"role": "system", "content": studBudDescription},
         {"role": "user", "content": text},
@@ -29,11 +35,19 @@ def chat(text):
 
     response = openai.ChatCompletion.create(
         # model="gpt-3.5-turbo",
-        model="gpt-4-0613",
+        # model="gpt-4-0613",
+        model = model,
         messages=conversation
     )
 
     message = response.choices[0].message.content
+    cost = 0
+    if model == "gpt-4-0613":
+        cost = response.usage.completion_tokens * 0.06 / 1000 + response.usage.prompt_tokens * 0.03 / 1000
+    elif model == "gpt-3.5-turbo":
+        cost = response.usage.completion_tokens * 0.0015 / 1000 + response.usage.prompt_tokens * 0.002 / 1000
+    totalCost += cost
+    print("Cost of chat: " + str(cost) + ". Total Cost (during run time): " + str(totalCost))
     return message
 
 
@@ -61,7 +75,7 @@ async def on_message(msg, isStudBudTalkingFirst=False):
         return 
     
     #Clear the terminal (for debugging purposes)
-    # os.system("cls")
+    os.system("cls")
     if msg.author.name == discordUsername and msg.content.startswith('$config'):
         message = msg.content.split()
         if len(message) != 2:
@@ -86,20 +100,22 @@ async def on_message(msg, isStudBudTalkingFirst=False):
         messageToSendGPTPrecursor += "Conversation (old to new) up to now:\n"
         
         messageToSendGPT = ""
-        for i in range(len(previousMessages)-2, -1, -1):
+        for i in range(len(previousMessages)-1, -1, -1):
             message = previousMessages[i]
             text = ""
             text += message.author.name + ": "
             text += message.content
             text += "\n\n"
-            if len(text) + len(messageToSendGPT) > contextLimit:
+            if len(text) + len(messageToSendGPT) > contextLimit and i < len(previousMessages)-3:
                 break
             messageToSendGPT = text + messageToSendGPT
 
         if isStudBudTalkingFirst:
-             messageToSendGPT = messageToSendGPTPrecursor + messageToSendGPT + previousMessages[len(previousMessages)-1].author.name + ": " + previousMessages[len(previousMessages)-1].content + "\n\n" + "Note that you are sending a message first instead of responding to Jacob. Say something like what do you plan to study today (if it's morning) or if it's night you can ask what I did today or if its in the middle of the day, you can just check up on Jacob. The current time is: " + str(datetime.datetime.now())
-        else:
-            messageToSendGPT = messageToSendGPTPrecursor + messageToSendGPT + previousMessages[len(previousMessages)-1].author.name + ": " + previousMessages[len(previousMessages)-1].content + "\n\n" + "(To write to long term memory: Type '2', message to remember (keep it really short), and 'BREAK' and then the response to give to Jacob)"
+             messageToSendGPT = messageToSendGPTPrecursor + messageToSendGPT + "Note that you are sending a message first instead of responding to Jacob. Say something like what do you plan to study today (if it's morning) or if it's night you can ask what I did today or if its in the middle of the day, you can just check up on Jacob. Note that I go to school on weekdays at 7:00, leave at 14:30, and get home and start studying at 2:50. The current time is: " + str(datetime.datetime.now())
+        elif model.startswith("gpt-4"):
+            messageToSendGPT = messageToSendGPTPrecursor + messageToSendGPT + "(To add to long term memory (only if it's important): Type '2', message to remember (keep it less than 50 characters), and 'BREAK' and then the response to give to Jacob)"
+        elif model.startswith("gpt-3.5"):
+            messageToSendGPT = messageToSendGPT
 
         print(messageToSendGPT)
         msgToSendBack = chat(messageToSendGPT)
@@ -109,7 +125,7 @@ async def on_message(msg, isStudBudTalkingFirst=False):
         print("\n\n" + msgToSendBack)
         if msgToSendBack[0] == '1':
             pass 
-        elif msgToSendBack[0] == '2':
+        elif msgToSendBack[0] == '2' and model.startswith("gpt-4"):
             toRemember = msgToSendBack.split('BREAK')[0][2:]
             with open('memories/memory1.txt', 'a') as f:
                 f.write(toRemember) 
@@ -117,6 +133,9 @@ async def on_message(msg, isStudBudTalkingFirst=False):
                 f.write(toRemember)
             
             msgToSendBack = msgToSendBack.split('BREAK')[1]
+
+        if msgToSendBack.startswith("StudBud:"):
+            msgToSendBack = msgToSendBack[9:]
 
         #Parse message into blocks of 2000 characters (discord limit)
         n = 2000
