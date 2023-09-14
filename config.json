@@ -1,0 +1,7 @@
+{
+    "contextLimit": "3000",
+    "memoryLimit": "1500",
+    "contextMessage": "Jacob studies in 30/10 (work/break) blocks\nEverytime you are asked to respond, please ask what I did in the just finished study block (unless you are answering a question)",
+    "model": "gpt-4-0613",
+    "mainChannelId": "1149443681150058658"
+}

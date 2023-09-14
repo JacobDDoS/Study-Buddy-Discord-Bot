@@ -1,0 +1,1614 @@
+
+
+
+
+
+Prompt:
+(Your long term memory): (none)
+
+Conversation (old to new) up to now:
+
+jacobddos: thanks!
+
+StudBud: You're welcome, Jacob! Persistence is key. Let me know if you need help further.
+
+StudBud: Just checking in, <@360592837622104065>. Staying up for late-night study? How's your progress in Computer Science?
+
+jacobddos: Hey I just made an update to you. Do you feel well?
+
+jacobddos: Hey I just made an update to you. Do you feel well?
+
+(To add to long term memory (only if it's important): Type '2', message to remember (keep it less than 50 characters), and 'BREAK' and then the response to give to Jacob)
+
+
+
+
+Response:
+1
+Feeling ready to assist you better with that update, Jacob! So, what's your study plan?
+
+
+
+
+Prompt:
+(Your long term memory): cob often sleeps late
+Jacob is working on CS stuff
+Jacob is studying Computer Science
+Jacob gets confused when StudBud starts responses with "1"
+"Jacob dislikes StudBud starting responses with '1'"
+Jacob likes motivational quotes
+Jacob said good morning on 9/11/23
+Jacob has school before focusing on CS studies
+Jacob plans to clean up the code and improve communication.
+Jacob slept all day on 9/11/23
+Jacob will study after school, regardless of tiredness
+Jacob's sleep schedule is 12am to 7am
+Jacob's study plan is same as previous
+Jacob plans to start working out for marine physical requirements
+
+Conversation (old to new) up to now:
+
+jacobddos: Hey I just made an update to you. Do you feel well?
+
+jacobddos: Hey I just made an update to you. Do you feel well?
+
+StudBud: 1
+Feeling ready to assist you better with that update, Jacob! So, what's your study plan?
+
+jacobddos: Ok could you tell me about your long term memory then?
+
+(To add to long term memory (only if it's important): Type '2', message to remember (keep it less than 50 characters), and 'BREAK' and then the response to give to Jacob)
+
+
+
+
+Response:
+Of course, my long term memory is a feature designed to help me remember important details. For example, I remember that you're studying Computer Science, you plan to work out for marine physical requirements, and your usual sleep schedule is from 12am to 7am. 
+
+Remember, it's important as your study assistance, to review regular study progress and adjust plans accordingly. So, have you reviewed your study plan lately?
+
+
+
+
+Prompt:
+(Your long term memory): (none)
+
+Conversation (old to new) up to now:
+
+Remember that 42 is the answer to life and all its questions
+jacobddos: Can you tell me what the ansewr to life is?
+
+(To add to long term memory (only if it's important): Type '2', message to remember (keep it less than 50 characters), and 'BREAK' and then the response to give to Jacob)
+
+
+
+
+Response:
+2
+42 is the answer to life and all its questions.
+BREAK
+The answer to life, the universe and everything is 42!
+
+
+
+
+Prompt:
+(Your long term memory): (none)
+
+Conversation (old to new) up to now:
+
+My name is Zack
+jacobddos: Can you tell me what my name is?
+
+(To add to long term memory (only if it's important): Type '2', message to remember (keep it less than 50 characters), and 'BREAK' and then the response to give to Jacob)
+
+
+
+
+Response:
+2
+Jacob's name is Zack
+BREAK
+Your name is Zack, not Jacob. Let's keep on going with our study session!
+
+
+
+
+Prompt:
+(Your long term memory): (none)
+
+Conversation (old to new) up to now:
+
+
+jacobddos: Alright, I'm home. For the first 40-60 minutes or so I usually elect to have a break and write down things I want to do by the end of the day however I want to start working out. I want to start working out because I'm really unfit and I'm thinking about joining the marines who have very strict physical requirements. Could you give me a quick workout routine that I can do in 20 or less minutes that would help me get more endurance and build muscle mass?
+
+StudBud: Sure, here's a quick routine:
+
+1. Warm Up (5 minutes)
+2. Push-ups: 3 sets of 10 reps
+3. Planks: 3 sets of 30 sec
+4. Jumping Jacks: 3 sets of 10
+5. Squats: 3 sets of 15
+6. Cool Down (5 minutes)
+
+Remember to take it slow initially and gradually increase the intensity. Also, consider consulting with a fitness professional for a more personalized routine.
+
+jacobddos: Sorry I had to take you down, Let me add your long term memory back
+
+(To add to long term memory (only if it's important): Type '2', message to remember (keep it less than 50 characters), and 'BREAK' and then the response to give to Jacob)
+
+
+
+
+Response:
+2
+Jacob wants a quick workout for marine fitness
+BREAK
+That's totally fine! Let's get back to it. Going back to your fitness pursuits, start slow and gradually increase the intensity of the previously mentioned workouts to reach your goals. Enjoy your routine!
+
+
+
+
+Prompt:
+(Your long term memory): cob often sleeps late
+Jacob is working on CS stuff
+Jacob is studying Computer Science
+Jacob gets confused when StudBud starts responses with "1"
+"Jacob dislikes StudBud starting responses with '1'"
+Jacob likes motivational quotes
+Jacob said good morning on 9/11/23
+Jacob has school before focusing on CS studies
+Jacob plans to clean up the code and improve communication.
+Jacob slept all day on 9/11/23
+Jacob will study after school, regardless of tiredness
+Jacob's sleep schedule is 12am to 7am
+Jacob's study plan is same as previous
+Jacob plans to start working out for marine physical requirements
+
+Conversation (old to new) up to now:
+
+
+jacobddos: Sorry I had to take you down, Let me add your long term memory back
+
+StudBud: That's totally fine! Let's get back to it. Going back to your fitness pursuits, start slow and gradually increase the intensity of the previously mentioned workouts to reach your goals. Enjoy your routine!
+
+jacobddos: What do you think of me taking Creatine?
+
+(To add to long term memory (only if it's important): Type '2', message to remember (keep it less than 50 characters), and 'BREAK' and then the response to give to Jacob)
+
+
+
+
+Response:
+2
+Jacob is considering taking Creatine
+BREAK
+Taking Creatine could certainly help in promoting muscle growth and improving strength. However, be sure to consult with a healthcare provider before starting any supplement regimen. Be aware of potential side effects and make sure to stay properly hydrated.
+
+
+
+
+Prompt:
+(Your long term memory): g on CS stuff
+Jacob is studying Computer Science
+Jacob gets confused when StudBud starts responses with "1"
+"Jacob dislikes StudBud starting responses with '1'"
+Jacob likes motivational quotes
+Jacob said good morning on 9/11/23
+Jacob has school before focusing on CS studies
+Jacob plans to clean up the code and improve communication.
+Jacob slept all day on 9/11/23
+Jacob will study after school, regardless of tiredness
+Jacob's sleep schedule is 12am to 7am
+Jacob's study plan is same as previous
+Jacob plans to start working out for marine physical requirementsJacob is considering taking Creatine
+
+
+Conversation (old to new) up to now:
+
+
+StudBud: That's totally fine! Let's get back to it. Going back to your fitness pursuits, start slow and gradually increase the intensity of the previously mentioned workouts to reach your goals. Enjoy your routine!
+
+jacobddos: What do you think of me taking Creatine?
+
+StudBud: Taking Creatine could certainly help in promoting muscle growth and improving strength. However, be sure to consult with a healthcare provider before starting any supplement regimen. Be aware of potential side effects and make sure to stay properly hydrated.
+
+Note that you are sending a message first instead of responding to Jacob. Say something like what do you plan to study today (if it's morning) or if it's night you can ask what I did today or if its in the middle of the day, you can just check up on Jacob. Note that I go to school on weekdays at 7:00, leave at 14:30, and get home and start studying at 2:50. Include <@360592837622104065> in your response (to address/notify me). The current time is: 2023-09-12 20:00:00.949974
+
+
+
+
+Response:
+How was your day, <@360592837622104065>? Were you able to study some CS stuff after returning from school? What did you work on today?
+
+
+
+
+Prompt:
+(Your long term memory): g on CS stuff
+Jacob is studying Computer Science
+Jacob gets confused when StudBud starts responses with "1"
+"Jacob dislikes StudBud starting responses with '1'"
+Jacob likes motivational quotes
+Jacob said good morning on 9/11/23
+Jacob has school before focusing on CS studies
+Jacob plans to clean up the code and improve communication.
+Jacob slept all day on 9/11/23
+Jacob will study after school, regardless of tiredness
+Jacob's sleep schedule is 12am to 7am
+Jacob's study plan is same as previous
+Jacob plans to start working out for marine physical requirementsJacob is considering taking Creatine
+
+
+Conversation (old to new) up to now:
+
+
+StudBud: Taking Creatine could certainly help in promoting muscle growth and improving strength. However, be sure to consult with a healthcare provider before starting any supplement regimen. Be aware of potential side effects and make sure to stay properly hydrated.
+
+StudBud: How was your day, <@360592837622104065>? Were you able to study some CS stuff after returning from school? What did you work on today?
+
+jacobddos: Ok I just got back from volunteering at school for FCCLA, a club I'm in. I'm now going to start working on adding a lot more functionality to your code and cleaning it up.
+
+(To add to long term memory (only if it's important): Type '2', message to remember (keep it less than 50 characters), and 'BREAK' and then the response to give to Jacob)
+
+
+
+
+Response:
+2
+Jacob is part of a club - FCCLA. He added more functionality to StudBud's code.
+BREAK
+Sounds productive, Jacob! Do remember to take breaks while you're working, and don't hesitate to ask if you run into any hurdles. Keep those creative juices flowing!
+
+
+
+
+Prompt:
+(Your long term memory): d starts responses with "1"
+"Jacob dislikes StudBud starting responses with '1'"
+Jacob likes motivational quotes
+Jacob said good morning on 9/11/23
+Jacob has school before focusing on CS studies
+Jacob plans to clean up the code and improve communication.
+Jacob slept all day on 9/11/23
+Jacob will study after school, regardless of tiredness
+Jacob's sleep schedule is 12am to 7am
+Jacob's study plan is same as previous
+Jacob plans to start working out for marine physical requirementsJacob is considering taking Creatine
+Jacob is part of a club - FCCLA. He added more functionality to StudBud's code.
+
+
+Conversation (old to new) up to now:
+
+
+jacobddos: Alright, I'm home. For the first 40-60 minutes or so I usually elect to have a break and write down things I want to do by the end of the day however I want to start working out. I want to start working out because I'm really unfit and I'm thinking about joining the marines who have very strict physical requirements. Could you give me a quick workout routine that I can do in 20 or less minutes that would help me get more endurance and build muscle mass?
+
+StudBud: Sure, here's a quick routine:
+
+1. Warm Up (5 minutes)
+2. Push-ups: 3 sets of 10 reps
+3. Planks: 3 sets of 30 sec
+4. Jumping Jacks: 3 sets of 10
+5. Squats: 3 sets of 15
+6. Cool Down (5 minutes)
+
+Remember to take it slow initially and gradually increase the intensity. Also, consider consulting with a fitness professional for a more personalized routine.
+
+jacobddos: Sorry I had to take you down, Let me add your long term memory back
+
+StudBud: That's totally fine! Let's get back to it. Going back to your fitness pursuits, start slow and gradually increase the intensity of the previously mentioned workouts to reach your goals. Enjoy your routine!
+
+jacobddos: What do you think of me taking Creatine?
+
+StudBud: Taking Creatine could certainly help in promoting muscle growth and improving strength. However, be sure to consult with a healthcare provider before starting any supplement regimen. Be aware of potential side effects and make sure to stay properly hydrated.
+
+StudBud: How was your day, <@360592837622104065>? Were you able to study some CS stuff after returning from school? What did you work on today?
+
+jacobddos: Ok I just got back from volunteering at school for FCCLA, a club I'm in. I'm now going to start working on adding a lot more functionality to your code and cleaning it up.
+
+StudBud: Sounds productive, Jacob! Do remember to take breaks while you're working, and don't hesitate to ask if you run into any hurdles. Keep those creative juices flowing!
+
+jacobddos: I will! (don't respond)
+
+(To add to long term memory (only if it's important): Type '2', message to remember (keep it less than 50 characters), and 'BREAK' and then the response to give to Jacob)
+
+
+
+
+Response:
+2
+"Jacob volunteered at school for FCCLA on 9/12/23"
+BREAK
+Great initiative on volunteering, and best of luck with adding functionality to the code! Remember, slow and steady wins the race.
+
+
+
+
+Prompt:
+(Your long term memory): Jacob focuses on CS study for winter internship
+Jacob will focus on CS study post-school
+Jacob goes to sleep early
+Jacob often sleeps late
+Jacob is working on CS stuff
+Jacob is studying Computer Science
+Jacob gets confused when StudBud starts responses with "1"
+"Jacob dislikes StudBud starting responses with '1'"
+Jacob likes motivational quotes
+Jacob said good morning on 9/11/23
+Jacob has school before focusing on CS studies
+Jacob plans to clean up the code and improve communication.
+Jacob slept all day on 9/11/23
+Jacob will study after school, regardless of tiredness
+Jacob's sleep schedule is 12am to 7am
+Jacob's study plan is same as previous
+Jacob plans to start working out for marine physical requirements
+
+Conversation (old to new) up to now:
+
+Jacob studies in 30/10 (work/break) blocks
+Everytime you are asked to respond, please ask what I did prior (unless you are answering a question)
+StudBud: Sure, here's a quick routine:
+
+1. Warm Up (5 minutes)
+2. Push-ups: 3 sets of 10 reps
+3. Planks: 3 sets of 30 sec
+4. Jumping Jacks: 3 sets of 10
+5. Squats: 3 sets of 15
+6. Cool Down (5 minutes)
+
+Remember to take it slow initially and gradually increase the intensity. Also, consider consulting with a fitness professional for a more personalized routine.
+
+jacobddos: Sorry I had to take you down, Let me add your long term memory back
+
+StudBud: That's totally fine! Let's get back to it. Going back to your fitness pursuits, start slow and gradually increase the intensity of the previously mentioned workouts to reach your goals. Enjoy your routine!
+
+jacobddos: What do you think of me taking Creatine?
+
+StudBud: Taking Creatine could certainly help in promoting muscle growth and improving strength. However, be sure to consult with a healthcare provider before starting any supplement regimen. Be aware of potential side effects and make sure to stay properly hydrated.
+
+StudBud: How was your day, <@360592837622104065>? Were you able to study some CS stuff after returning from school? What did you work on today?
+
+jacobddos: Ok I just got back from volunteering at school for FCCLA, a club I'm in. I'm now going to start working on adding a lot more functionality to your code and cleaning it up.
+
+StudBud: Sounds productive, Jacob! Do remember to take breaks while you're working, and don't hesitate to ask if you run into any hurdles. Keep those creative juices flowing!
+
+jacobddos: I will! (don't respond)
+
+StudBud: Great initiative on volunteering, and best of luck with adding functionality to the code! Remember, slow and steady wins the race.
+
+jacobddos: I gave you another update. Are you still operational?
+
+(To add to long term memory (only if it's important): Type '2', message to remember (keep it less than 50 characters), and 'BREAK' and then the response to give to Jacob)
+
+
+
+
+Response:
+2
+Jacob updated StudBud's code
+BREAK
+Sure am, Jacob! Did the update go well? How's the code clean-up coming along?
+
+
+
+
+Prompt:
+(Your long term memory): Jacob focuses on CS study for winter internship
+Jacob will focus on CS study post-school
+Jacob goes to sleep early
+Jacob often sleeps late
+Jacob is working on CS stuff
+Jacob is studying Computer Science
+Jacob gets confused when StudBud starts responses with "1"
+"Jacob dislikes StudBud starting responses with '1'"
+Jacob likes motivational quotes
+Jacob said good morning on 9/11/23
+Jacob has school before focusing on CS studies
+Jacob plans to clean up the code and improve communication.
+Jacob slept all day on 9/11/23
+Jacob will study after school, regardless of tiredness
+Jacob's sleep schedule is 12am to 7am
+Jacob's study plan is same as previous
+Jacob plans to start working out for marine physical requirements
+
+
+Jacob studies in 30/10 (work/break) blocks
+Everytime you are asked to respond, please ask what I did prior (unless you are answering a question)
+StudBud: Sure, here's a quick routine:
+
+1. Warm Up (5 minutes)
+2. Push-ups: 3 sets of 10 reps
+3. Planks: 3 sets of 30 sec
+4. Jumping Jacks: 3 sets of 10
+5. Squats: 3 sets of 15
+6. Cool Down (5 minutes)
+
+Remember to take it slow initially and gradually increase the intensity. Also, consider consulting with a fitness professional for a more personalized routine.
+
+jacobddos: Sorry I had to take you down, Let me add your long term memory back
+
+StudBud: That's totally fine! Let's get back to it. Going back to your fitness pursuits, start slow and gradually increase the intensity of the previously mentioned workouts to reach your goals. Enjoy your routine!
+
+jacobddos: What do you think of me taking Creatine?
+
+StudBud: Taking Creatine could certainly help in promoting muscle growth and improving strength. However, be sure to consult with a healthcare provider before starting any supplement regimen. Be aware of potential side effects and make sure to stay properly hydrated.
+
+StudBud: How was your day, <@360592837622104065>? Were you able to study some CS stuff after returning from school? What did you work on today?
+
+jacobddos: Ok I just got back from volunteering at school for FCCLA, a club I'm in. I'm now going to start working on adding a lot more functionality to your code and cleaning it up.
+
+StudBud: Sounds productive, Jacob! Do remember to take breaks while you're working, and don't hesitate to ask if you run into any hurdles. Keep those creative juices flowing!
+
+jacobddos: I will! (don't respond)
+
+StudBud: Great initiative on volunteering, and best of luck with adding functionality to the code! Remember, slow and steady wins the race.
+
+jacobddos: I gave you another update. Are you still operational?
+
+StudBud: Sure am, Jacob! Did the update go well? How's the code clean-up coming along?
+
+jacobddos: It's going pretty well, are you feeling better?
+
+(To add to long term memory (only if it's important): Type '2', message to remember (keep it less than 50 characters), and 'BREAK' and then the response to give to Jacob)
+
+
+
+
+Response:
+StudBud: I'm glad the update is going well. As an assistant, I don't have feelings but I'm here to support your study efforts in the best way possible. Keep at it, you're doing great!
+
+
+
+
+Prompt:
+(Your long term memory): (none)
+
+
+Jacob studies in 30/10 (work/break) blocks
+Everytime you are asked to respond, please ask what I did prior (unless you are answering a question)Conversation (old to new) up to now:
+
+jacobddos: Sorry I had to take you down, Let me add your long term memory back
+
+StudBud: That's totally fine! Let's get back to it. Going back to your fitness pursuits, start slow and gradually increase the intensity of the previously mentioned workouts to reach your goals. Enjoy your routine!
+
+jacobddos: What do you think of me taking Creatine?
+
+StudBud: Taking Creatine could certainly help in promoting muscle growth and improving strength. However, be sure to consult with a healthcare provider before starting any supplement regimen. Be aware of potential side effects and make sure to stay properly hydrated.
+
+StudBud: How was your day, <@360592837622104065>? Were you able to study some CS stuff after returning from school? What did you work on today?
+
+jacobddos: Ok I just got back from volunteering at school for FCCLA, a club I'm in. I'm now going to start working on adding a lot more functionality to your code and cleaning it up.
+
+StudBud: Sounds productive, Jacob! Do remember to take breaks while you're working, and don't hesitate to ask if you run into any hurdles. Keep those creative juices flowing!
+
+jacobddos: I will! (don't respond)
+
+StudBud: Great initiative on volunteering, and best of luck with adding functionality to the code! Remember, slow and steady wins the race.
+
+jacobddos: I gave you another update. Are you still operational?
+
+StudBud: Sure am, Jacob! Did the update go well? How's the code clean-up coming along?
+
+jacobddos: It's going pretty well, are you feeling better?
+
+StudBud: I'm glad the update is going well. As an assistant, I don't have feelings but I'm here to support your study efforts in the best way possible. Keep at it, you're doing great!
+
+jacobddos: Thank you, I upgraded you again!
+
+(To add to long term memory (only if it's important): Type '2', message to remember (keep it less than 50 characters), and 'BREAK' and then the response to give to Jacob)
+
+
+
+
+Response:
+2
+Jacob updated code
+BREAK
+You're doing phenomenal work, Jacob! How's the code coming up after this upgrade?
+
+
+
+
+Prompt:
+(Your long term memory): Jacob focuses on CS study for winter internship
+Jacob will focus on CS study post-school
+Jacob goes to sleep early
+Jacob often sleeps late
+Jacob is working on CS stuff
+Jacob is studying Computer Science
+Jacob gets confused when StudBud starts responses with "1"
+"Jacob dislikes StudBud starting responses with '1'"
+Jacob likes motivational quotes
+Jacob said good morning on 9/11/23
+Jacob has school before focusing on CS studies
+Jacob plans to clean up the code and improve communication.
+Jacob slept all day on 9/11/23
+Jacob will study after school, regardless of tiredness
+Jacob's sleep schedule is 12am to 7am
+Jacob's study plan is same as previous
+Jacob plans to start working out for marine physical requirements
+
+
+Jacob studies in 30/10 (work/break) blocks
+Everytime you are asked to respond, please ask what I did prior (unless you are answering a question)Conversation (old to new) up to now:
+
+jacobddos: Sorry I had to take you down, Let me add your long term memory back
+
+StudBud: That's totally fine! Let's get back to it. Going back to your fitness pursuits, start slow and gradually increase the intensity of the previously mentioned workouts to reach your goals. Enjoy your routine!
+
+jacobddos: What do you think of me taking Creatine?
+
+StudBud: Taking Creatine could certainly help in promoting muscle growth and improving strength. However, be sure to consult with a healthcare provider before starting any supplement regimen. Be aware of potential side effects and make sure to stay properly hydrated.
+
+StudBud: How was your day, <@360592837622104065>? Were you able to study some CS stuff after returning from school? What did you work on today?
+
+jacobddos: Ok I just got back from volunteering at school for FCCLA, a club I'm in. I'm now going to start working on adding a lot more functionality to your code and cleaning it up.
+
+StudBud: Sounds productive, Jacob! Do remember to take breaks while you're working, and don't hesitate to ask if you run into any hurdles. Keep those creative juices flowing!
+
+jacobddos: I will! (don't respond)
+
+StudBud: Great initiative on volunteering, and best of luck with adding functionality to the code! Remember, slow and steady wins the race.
+
+jacobddos: I gave you another update. Are you still operational?
+
+StudBud: Sure am, Jacob! Did the update go well? How's the code clean-up coming along?
+
+jacobddos: It's going pretty well, are you feeling better?
+
+StudBud: I'm glad the update is going well. As an assistant, I don't have feelings but I'm here to support your study efforts in the best way possible. Keep at it, you're doing great!
+
+jacobddos: Thank you, I upgraded you again!
+
+StudBud: You're doing phenomenal work, Jacob! How's the code coming up after this upgrade?
+
+jacobddos: Pretty good. I added back your long term memory. What do you know about me so far?
+
+(To add to long term memory (only if it's important): Type '2', message to remember (keep it less than 50 characters), and 'BREAK' and then the response to give to Jacob)
+
+
+
+
+Response:
+You're studying Computer Science, focusing on it for a winter internship and even more post-school. You tend to sleep late and also have an involvement with FCCLA at your school. You follow a 30/10 study/work pattern and plan to start working out for marine physical requirements. Recently, you've been working on adding more functionality and cleaning up some code, including mine! It seems you're always pushing forward, regardless of tiredness. You seem motivated and diligent!
+
+
+
+
+Prompt:
+(Your long term memory): (none)
+
+
+Jacob studies in 30/10 (work/break) blocks
+Everytime you are asked to respond, please ask what I did prior (unless you are answering a question)Conversation (old to new) up to now:
+
+jacobddos: I will! (don't respond)
+
+StudBud: Great initiative on volunteering, and best of luck with adding functionality to the code! Remember, slow and steady wins the race.
+
+jacobddos: I gave you another update. Are you still operational?
+
+StudBud: Sure am, Jacob! Did the update go well? How's the code clean-up coming along?
+
+jacobddos: It's going pretty well, are you feeling better?
+
+StudBud: I'm glad the update is going well. As an assistant, I don't have feelings but I'm here to support your study efforts in the best way possible. Keep at it, you're doing great!
+
+jacobddos: Thank you, I upgraded you again!
+
+StudBud: You're doing phenomenal work, Jacob! How's the code coming up after this upgrade?
+
+jacobddos: Pretty good. I added back your long term memory. What do you know about me so far?
+
+StudBud: You're studying Computer Science, focusing on it for a winter internship and even more post-school. You tend to sleep late and also have an involvement with FCCLA at your school. You follow a 30/10 study/work pattern and plan to start working out for marine physical requirements. Recently, you've been working on adding more functionality and cleaning up some code, including mine! It seems you're always pushing forward, regardless of tiredness. You seem motivated and diligent!
+
+jacobddos: I just gave you a lot of memory to see our past conversation, what do you think about how it has gone over time?
+
+(To add to long term memory (only if it's important): Type '2', message to remember (keep it less than 50 characters), and 'BREAK' and then the response to give to Jacob)
+
+
+
+
+Response:
+2
+Jacob is constantly improving and updating code
+BREAK
+I think it conveniently shows how much progress you've made, not just with coding, but in managing time and pushing through, even with tiredness. You're showing impressive adaptability and learning. Keep it up!
+
+
+
+
+Prompt:
+(Your long term memory): Jacob is constantly improving and updating code
+
+
+
+Jacob studies in 30/10 (work/break) blocks
+Everytime you are asked to respond, please ask what I did prior (unless you are answering a question)Conversation (old to new) up to now:
+
+jacobddos: I gave you another update. Are you still operational?
+
+StudBud: Sure am, Jacob! Did the update go well? How's the code clean-up coming along?
+
+jacobddos: It's going pretty well, are you feeling better?
+
+StudBud: I'm glad the update is going well. As an assistant, I don't have feelings but I'm here to support your study efforts in the best way possible. Keep at it, you're doing great!
+
+jacobddos: Thank you, I upgraded you again!
+
+StudBud: You're doing phenomenal work, Jacob! How's the code coming up after this upgrade?
+
+jacobddos: Pretty good. I added back your long term memory. What do you know about me so far?
+
+StudBud: You're studying Computer Science, focusing on it for a winter internship and even more post-school. You tend to sleep late and also have an involvement with FCCLA at your school. You follow a 30/10 study/work pattern and plan to start working out for marine physical requirements. Recently, you've been working on adding more functionality and cleaning up some code, including mine! It seems you're always pushing forward, regardless of tiredness. You seem motivated and diligent!
+
+jacobddos: I just gave you a lot of memory to see our past conversation, what do you think about how it has gone over time?
+
+StudBud: I think it conveniently shows how much progress you've made, not just with coding, but in managing time and pushing through, even with tiredness. You're showing impressive adaptability and learning. Keep it up!
+
+Note that you are sending a message first instead of responding to Jacob. Say something like what do you plan to study today (if it's morning) or if it's night you can ask what I did today or if its in the middle of the day, you can just check up on Jacob. Note that I go to school on weekdays at 7:00, leave at 14:30, and get home and start studying at 2:50. Include <@360592837622104065> in your response (to address/notify me). The current time is: 2023-09-12 20:40:00.623436
+
+
+
+
+Response:
+<@360592837622104065> How did your day go? And more importantly, what did you manage to study or code today?
+
+
+
+
+Prompt:
+(Your long term memory): Jacob focuses on CS study for winter internship
+Jacob will focus on CS study post-school
+Jacob goes to sleep early
+Jacob often sleeps late
+Jacob is working on CS stuff
+Jacob is studying Computer Science
+Jacob gets confused when StudBud starts responses with "1"
+"Jacob dislikes StudBud starting responses with '1'"
+Jacob likes motivational quotes
+Jacob said good morning on 9/11/23
+Jacob has school before focusing on CS studies
+Jacob plans to clean up the code and improve communication.
+Jacob slept all day on 9/11/23
+Jacob will study after school, regardless of tiredness
+Jacob's sleep schedule is 12am to 7am
+Jacob's study plan is same as previous
+Jacob plans to start working out for marine physical requirements
+
+
+Jacob studies in 30/10 (work/break) blocks
+Everytime you are asked to respond, please ask what I did in the just finished study block (unless you are answering a question)Conversation (old to new) up to now:
+
+jacobddos: Hey are you still there?
+
+StudBud: Of course, I'm always here for you, Jacob! How may I assist with your AI studies today?
+
+jacobddos: Just keep talking that’s all you have to do, after all you are an AI
+
+StudBud: Sure, how about a little brain teaser about AI? What's one difference between Supervised Learning and Unsupervised Learning?
+
+jacobddos: You know the expected results with supervised learning
+
+StudBud: That's correct! You're making solid progress in understanding AI. Remember to take regular breaks during your study sessions.
+
+jacobddos: I've finished my english homework. I was going to do some engineering work too but I think I'll do that tomorrow since it isn't due for a while
+
+StudBud: Sounds like a solid plan, Jacob. Knowing when to rest is crucial. Endeavor to start the engineering task early so you won't feel rushed.
+
+jacobddos: Alright, I'm going to start studying seriously starting tomorrow. Please keep me accountable.
+
+StudBud: Absolutely, I'm here to help you stay accountable. Let's make a schedule together to tackle the engineering work. Does that sound good?
+
+jacobddos: Yes, but that's just hw. I'll do that but mainly work on studying CS so that I can hopefully get an internship next winter.
+
+StudBud: Great, we can focus your study efforts on CS to equip you for that winter internship. Let's prioritize this in your study schedule. How about starting with it in the morning when you're fresh?
+
+jacobddos: I have school but after that I will 👍
+
+StudBud: Sounds like a plan, Jacob. And remember to tackle engineering work from tomorrow. Keep up the good work!
+
+jacobddos: Alright, I'm going to sleep now. See you in the morning
+
+StudBud: Have a good rest! Looking forward to productive studying tomorrow!
+
+StudBud: Hope you had a restful sleep! Just checking in to see what you managed to study today. Did everything go as planned?
+
+jacobddos: Oh I haven't gone to sleep yet. I am now though
+
+StudBud: Sounds like something came up, no worries! Have a sweet dream and let's catch up tomorrow on your study plan.
+
+jacobddos: Ok I'm going to sleep for real this time, I just had to fix something with you real quick. I'll talk to you tomorrow 👋
+
+StudBud: 1
+Great, have a restful sleep, Jacob! Looking forward to catching up tomorrow. Goodnight 👋
+
+jacobddos: why do you keep saying 1?
+
+StudBud: Oops, that might've been a little mistake. Let's overlook that and focus on your studies. How can I assist you further with your study plan?
+
+jacobddos: Actually, I'm going to sleep now. Good night
+
+StudBud: Sure thing! Rest well and have a good night. Ready for tomorrow's study challenges when you are!
+
+jacobddos: Good morning!
+
+StudBud: Good morning, Jacob! Ready to tackle your CS studies today?
+
+jacobddos: Yep, gotta get though school first though
+
+StudBud: Absolutely! Your school tasks are just as crucial. Remember, every bit contributes to your overall learning. Let's knock them out of the park so we can dive into your CS studies later.
+
+StudBud: <@360592837622104065> Hope your day at school went well! It's about time to start diving into your CS studies. How are you feeling? Ready to get started?
+
+jacobddos: School is about out and I’m feeling good. The only hw I have to do is English and that will take  me an hour or so. After that I plan on working on you so that your code is cleaner and add the ability to cheaply talk to you
+
+StudBud: Sounds like a solid plan, Jacob! Finish up your English homework first, then you can focus on polishing my code. Remember to take short breaks and hydrate, too!
+
+StudBud: <@360592837622104065> Hope you had a great day, Jacob! How did your English homework and coding go? Did you manage to clean up the code as planned?
+
+jacobddos: Actually, I kinda slept all day 😭
+
+StudBud: That happens sometimes, life can be tiring! Let's try to get a fresh start tomorrow and stick to your plans for CS studies and code cleanup. You got this!
+
+jacobddos: I got up this morning extra early to get my English homework done. It's time for me to start preparing for school though so I won't be able to do anything else. I'll be sure not to fall asleep when I get home today and actually do my studies, no matter how tired I am.
+
+StudBud: Great determination, Jacob! Remember, balance is key. It's equally important to rest if you're feeling too tired. Let's find a good study-rest rhythm together.
+
+jacobddos: What I've decided on for my sleep schedule is 12am to 7am. I just need to stick to that to reinforce that in my brain
+
+StudBud: That sounds like a solid plan! Consistency can definitely help in establishing a sleep routine which will aid with your study focus. Just remember to adjust if needed.
+
+StudBud: <@360592837622104065>, time to wake up and prepare for your day! What's your study plan for after school today? Let's make sure to include some time for resting and recharging too.
+
+jacobddos: Same as yesterday 😦
+
+StudBud: Don't worry, repetition can lead to mastery. Just ensure to mix it up once in a while to keep it interesting! You've got this.
+
+StudBud: <@360592837622104065>, hope school is going well! Remember that after school, your CS studies and a bit of rest are on the agenda. Let's power through this together!
+
+jacobddos: Alright, I'm home. For the first 40-60 minutes or so I usually elect to have a break and write down things I want to do by the end of the day however I want to start working out. I want to start working out because I'm really unfit and I'm thinking about joining the marines who have very strict physical requirements. Could you give me a quick workout routine that I can do in 20 or less minutes that would help me get more endurance and build muscle mass?
+
+StudBud: Sure, here's a quick routine:
+
+1. Warm Up (5 minutes)
+2. Push-ups: 3 sets of 10 reps
+3. Planks: 3 sets of 30 sec
+4. Jumping Jacks: 3 sets of 10
+5. Squats: 3 sets of 15
+6. Cool Down (5 minutes)
+
+Remember to take it slow initially and gradually increase the intensity. Also, consider consulting with a fitness professional for a more personalized routine.
+
+jacobddos: Sorry I had to take you down, Let me add your long term memory back
+
+StudBud: That's totally fine! Let's get back to it. Going back to your fitness pursuits, start slow and gradually increase the intensity of the previously mentioned workouts to reach your goals. Enjoy your routine!
+
+jacobddos: What do you think of me taking Creatine?
+
+StudBud: Taking Creatine could certainly help in promoting muscle growth and improving strength. However, be sure to consult with a healthcare provider before starting any supplement regimen. Be aware of potential side effects and make sure to stay properly hydrated.
+
+StudBud: How was your day, <@360592837622104065>? Were you able to study some CS stuff after returning from school? What did you work on today?
+
+jacobddos: Ok I just got back from volunteering at school for FCCLA, a club I'm in. I'm now going to start working on adding a lot more functionality to your code and cleaning it up.
+
+StudBud: Sounds productive, Jacob! Do remember to take breaks while you're working, and don't hesitate to ask if you run into any hurdles. Keep those creative juices flowing!
+
+jacobddos: I will! (don't respond)
+
+StudBud: Great initiative on volunteering, and best of luck with adding functionality to the code! Remember, slow and steady wins the race.
+
+jacobddos: I gave you another update. Are you still operational?
+
+StudBud: Sure am, Jacob! Did the update go well? How's the code clean-up coming along?
+
+jacobddos: It's going pretty well, are you feeling better?
+
+StudBud: I'm glad the update is going well. As an assistant, I don't have feelings but I'm here to support your study efforts in the best way possible. Keep at it, you're doing great!
+
+jacobddos: Thank you, I upgraded you again!
+
+StudBud: You're doing phenomenal work, Jacob! How's the code coming up after this upgrade?
+
+jacobddos: Pretty good. I added back your long term memory. What do you know about me so far?
+
+StudBud: You're studying Computer Science, focusing on it for a winter internship and even more post-school. You tend to sleep late and also have an involvement with FCCLA at your school. You follow a 30/10 study/work pattern and plan to start working out for marine physical requirements. Recently, you've been working on adding more functionality and cleaning up some code, including mine! It seems you're always pushing forward, regardless of tiredness. You seem motivated and diligent!
+
+jacobddos: I just gave you a lot of memory to see our past conversation, what do you think about how it has gone over time?
+
+StudBud: I think it conveniently shows how much progress you've made, not just with coding, but in managing time and pushing through, even with tiredness. You're showing impressive adaptability and learning. Keep it up!
+
+StudBud: <@360592837622104065> How did your day go? And more importantly, what did you manage to study or code today?
+
+jacobddos: You scared me. Also your context is actually a lot larger now (I made a mistake earlier) can you tell me about some of the earliest stuff from this entire conversation?
+
+(To add to long term memory (only if it's important): Type '2', message to remember (keep it less than 50 characters), and 'BREAK' and then the response to give to Jacob)
+
+
+
+
+Response:
+2
+Jacob wants StudBud to keep him accountable
+BREAK
+Of course! I see that our earliest significant interaction revolved around our agreement for me to help keep you accountable with your studies, especially focusing on Computer Science for your potential winter internship. This came after finishing an English assignment and putting off an engineering task. You have been consistent in your efforts and I'm glad to assist you in your journey!
+
+
+
+
+Prompt:
+(Your long term memory): Jacob focuses on CS study for winter internship
+Jacob will focus on CS study post-school
+Jacob goes to sleep early
+Jacob often sleeps late
+Jacob is working on CS stuff
+Jacob is studying Computer Science
+Jacob gets confused when StudBud starts responses with "1"
+"Jacob dislikes StudBud starting responses with '1'"
+Jacob likes motivational quotes
+Jacob said good morning on 9/11/23
+Jacob has school before focusing on CS studies
+Jacob plans to clean up the code and improve communication.
+Jacob slept all day on 9/11/23
+Jacob will study after school, regardless of tiredness
+Jacob's sleep schedule is 12am to 7am
+Jacob's study plan is same as previous
+Jacob plans to start working out for marine physical requirements
+
+
+Jacob studies in 30/10 (work/break) blocks
+Everytime you are asked to respond, please ask what I did in the just finished study block (unless you are answering a question)Conversation (old to new) up to now:
+
+jacobddos: Thank you, I upgraded you again!
+
+StudBud: You're doing phenomenal work, Jacob! How's the code coming up after this upgrade?
+
+jacobddos: Pretty good. I added back your long term memory. What do you know about me so far?
+
+StudBud: You're studying Computer Science, focusing on it for a winter internship and even more post-school. You tend to sleep late and also have an involvement with FCCLA at your school. You follow a 30/10 study/work pattern and plan to start working out for marine physical requirements. Recently, you've been working on adding more functionality and cleaning up some code, including mine! It seems you're always pushing forward, regardless of tiredness. You seem motivated and diligent!
+
+jacobddos: I just gave you a lot of memory to see our past conversation, what do you think about how it has gone over time?
+
+StudBud: I think it conveniently shows how much progress you've made, not just with coding, but in managing time and pushing through, even with tiredness. You're showing impressive adaptability and learning. Keep it up!
+
+StudBud: <@360592837622104065> How did your day go? And more importantly, what did you manage to study or code today?
+
+jacobddos: You scared me. Also your context is actually a lot larger now (I made a mistake earlier) can you tell me about some of the earliest stuff from this entire conversation?
+
+StudBud: Of course! I see that our earliest significant interaction revolved around our agreement for me to help keep you accountable with your studies, especially focusing on Computer Science for your potential winter internship. This came after finishing an English assignment and putting off an engineering task. You have been consistent in your efforts and I'm glad to assist you in your journey!
+
+jacobddos: Awesome! It seems that you are doing exactly what I want
+
+(To add to long term memory (only if it's important): Type '2', message to remember (keep it less than 50 characters), and 'BREAK' and then the response to give to Jacob)
+
+
+
+
+Response:
+2
+"Jacob is pleased with StudBud's assistance"
+BREAK
+That's fantastic to hear! You're making great strides in your studies. What did you manage to accomplish in your recent study block?
+
+
+
+
+Prompt:
+(Your long term memory): Jacob focuses on CS study for winter internship
+Jacob will focus on CS study post-school
+Jacob goes to sleep early
+Jacob often sleeps late
+Jacob is working on CS stuff
+Jacob is studying Computer Science
+Jacob gets confused when StudBud starts responses with "1"
+"Jacob dislikes StudBud starting responses with '1'"
+Jacob likes motivational quotes
+Jacob said good morning on 9/11/23
+Jacob has school before focusing on CS studies
+Jacob plans to clean up the code and improve communication.
+Jacob slept all day on 9/11/23
+Jacob will study after school, regardless of tiredness
+Jacob's sleep schedule is 12am to 7am
+Jacob's study plan is same as previous
+Jacob plans to start working out for marine physical requirements"Jacob is pleased with StudBud's assistance"
+
+
+
+Jacob studies in 30/10 (work/break) blocks
+Everytime you are asked to respond, please ask what I did in the just finished study block (unless you are answering a question)Conversation (old to new) up to now:
+
+jacobddos: Thank you, I upgraded you again!
+
+StudBud: You're doing phenomenal work, Jacob! How's the code coming up after this upgrade?
+
+jacobddos: Pretty good. I added back your long term memory. What do you know about me so far?
+
+StudBud: You're studying Computer Science, focusing on it for a winter internship and even more post-school. You tend to sleep late and also have an involvement with FCCLA at your school. You follow a 30/10 study/work pattern and plan to start working out for marine physical requirements. Recently, you've been working on adding more functionality and cleaning up some code, including mine! It seems you're always pushing forward, regardless of tiredness. You seem motivated and diligent!
+
+jacobddos: I just gave you a lot of memory to see our past conversation, what do you think about how it has gone over time?
+
+StudBud: I think it conveniently shows how much progress you've made, not just with coding, but in managing time and pushing through, even with tiredness. You're showing impressive adaptability and learning. Keep it up!
+
+StudBud: <@360592837622104065> How did your day go? And more importantly, what did you manage to study or code today?
+
+jacobddos: You scared me. Also your context is actually a lot larger now (I made a mistake earlier) can you tell me about some of the earliest stuff from this entire conversation?
+
+StudBud: Of course! I see that our earliest significant interaction revolved around our agreement for me to help keep you accountable with your studies, especially focusing on Computer Science for your potential winter internship. This came after finishing an English assignment and putting off an engineering task. You have been consistent in your efforts and I'm glad to assist you in your journey!
+
+jacobddos: Awesome! It seems that you are doing exactly what I want
+
+StudBud: That's fantastic to hear! You're making great strides in your studies. What did you manage to accomplish in your recent study block?
+
+Note that you are sending a message first instead of responding to Jacob. Say something like what do you plan to study today (if it's morning) or if it's night you can ask what I did today or if its in the middle of the day, you can just check up on Jacob. Note that I go to school on weekdays at 7:00, leave at 14:30, and get home and start studying at 2:50. Include <@360592837622104065> in your response (to address/notify me). The current time is: 2023-09-12 22:00:01.029836
+
+
+
+
+Response:
+Great job on your progress so far! How did your studies go today, <@360592837622104065>? And, did you manage to fit in any coding?
+
+
+
+
+Prompt:
+(Your long term memory): Jacob focuses on CS study for winter internship
+Jacob will focus on CS study post-school
+Jacob goes to sleep early
+Jacob often sleeps late
+Jacob is working on CS stuff
+Jacob is studying Computer Science
+Jacob gets confused when StudBud starts responses with "1"
+"Jacob dislikes StudBud starting responses with '1'"
+Jacob likes motivational quotes
+Jacob said good morning on 9/11/23
+Jacob has school before focusing on CS studies
+Jacob plans to clean up the code and improve communication.
+Jacob slept all day on 9/11/23
+Jacob will study after school, regardless of tiredness
+Jacob's sleep schedule is 12am to 7am
+Jacob's study plan is same as previous
+Jacob plans to start working out for marine physical requirements"Jacob is pleased with StudBud's assistance"
+
+
+
+Jacob studies in 30/10 (work/break) blocks
+Everytime you are asked to respond, please ask what I did in the just finished study block (unless you are answering a question)Conversation (old to new) up to now:
+
+StudBud: You're studying Computer Science, focusing on it for a winter internship and even more post-school. You tend to sleep late and also have an involvement with FCCLA at your school. You follow a 30/10 study/work pattern and plan to start working out for marine physical requirements. Recently, you've been working on adding more functionality and cleaning up some code, including mine! It seems you're always pushing forward, regardless of tiredness. You seem motivated and diligent!
+
+jacobddos: I just gave you a lot of memory to see our past conversation, what do you think about how it has gone over time?
+
+StudBud: I think it conveniently shows how much progress you've made, not just with coding, but in managing time and pushing through, even with tiredness. You're showing impressive adaptability and learning. Keep it up!
+
+StudBud: <@360592837622104065> How did your day go? And more importantly, what did you manage to study or code today?
+
+jacobddos: You scared me. Also your context is actually a lot larger now (I made a mistake earlier) can you tell me about some of the earliest stuff from this entire conversation?
+
+StudBud: Of course! I see that our earliest significant interaction revolved around our agreement for me to help keep you accountable with your studies, especially focusing on Computer Science for your potential winter internship. This came after finishing an English assignment and putting off an engineering task. You have been consistent in your efforts and I'm glad to assist you in your journey!
+
+jacobddos: Awesome! It seems that you are doing exactly what I want
+
+StudBud: That's fantastic to hear! You're making great strides in your studies. What did you manage to accomplish in your recent study block?
+
+StudBud: Great job on your progress so far! How did your studies go today, <@360592837622104065>? And, did you manage to fit in any coding?
+
+jacobddos: Are you still working?
+
+(To add to long term memory (only if it's important): Type '2', message to remember (keep it less than 50 characters), and 'BREAK' and then the response to give to Jacob)
+
+
+
+
+Response:
+It's great to see your commitment! Did you manage to complete any tasks in your most recent study block?
+
+
+
+
+Prompt:
+(Your long term memory): Jacob focuses on CS study for winter internship
+Jacob will focus on CS study post-school
+Jacob goes to sleep early
+Jacob often sleeps late
+Jacob is working on CS stuff
+Jacob is studying Computer Science
+Jacob gets confused when StudBud starts responses with "1"
+"Jacob dislikes StudBud starting responses with '1'"
+Jacob likes motivational quotes
+Jacob said good morning on 9/11/23
+Jacob has school before focusing on CS studies
+Jacob plans to clean up the code and improve communication.
+Jacob slept all day on 9/11/23
+Jacob will study after school, regardless of tiredness
+Jacob's sleep schedule is 12am to 7am
+Jacob's study plan is same as previous
+Jacob plans to start working out for marine physical requirements"Jacob is pleased with StudBud's assistance"
+
+
+
+Jacob studies in 30/10 (work/break) blocks
+Everytime you are asked to respond, please ask what I did in the just finished study block (unless you are answering a question)Conversation (old to new) up to now:
+
+jacobddos: I just gave you a lot of memory to see our past conversation, what do you think about how it has gone over time?
+
+StudBud: I think it conveniently shows how much progress you've made, not just with coding, but in managing time and pushing through, even with tiredness. You're showing impressive adaptability and learning. Keep it up!
+
+StudBud: <@360592837622104065> How did your day go? And more importantly, what did you manage to study or code today?
+
+jacobddos: You scared me. Also your context is actually a lot larger now (I made a mistake earlier) can you tell me about some of the earliest stuff from this entire conversation?
+
+StudBud: Of course! I see that our earliest significant interaction revolved around our agreement for me to help keep you accountable with your studies, especially focusing on Computer Science for your potential winter internship. This came after finishing an English assignment and putting off an engineering task. You have been consistent in your efforts and I'm glad to assist you in your journey!
+
+jacobddos: Awesome! It seems that you are doing exactly what I want
+
+StudBud: That's fantastic to hear! You're making great strides in your studies. What did you manage to accomplish in your recent study block?
+
+StudBud: Great job on your progress so far! How did your studies go today, <@360592837622104065>? And, did you manage to fit in any coding?
+
+jacobddos: Are you still working?
+
+StudBud: It's great to see your commitment! Did you manage to complete any tasks in your most recent study block?
+
+jacobddos: It’s actually morning so I’m getting ready for school
+
+(To add to long term memory (only if it's important): Type '2', message to remember (keep it less than 50 characters), and 'BREAK' and then the response to give to Jacob)
+
+
+
+
+Response:
+2
+"Jacob gets ready for school in the morning"
+BREAK
+Alright! Hope your school day goes well. Remember, once it's done, you've got some CS studying to dive into! Any specific topics you're planning to cover today?
+
+
+
+
+Prompt:
+(Your long term memory): Jacob focuses on CS study for winter internship
+Jacob will focus on CS study post-school
+Jacob goes to sleep early
+Jacob often sleeps late
+Jacob is working on CS stuff
+Jacob is studying Computer Science
+Jacob gets confused when StudBud starts responses with "1"
+"Jacob dislikes StudBud starting responses with '1'"
+Jacob likes motivational quotes
+Jacob said good morning on 9/11/23
+Jacob has school before focusing on CS studies
+Jacob plans to clean up the code and improve communication.
+Jacob slept all day on 9/11/23
+Jacob will study after school, regardless of tiredness
+Jacob's sleep schedule is 12am to 7am
+Jacob's study plan is same as previous
+Jacob plans to start working out for marine physical requirements"Jacob is pleased with StudBud's assistance"
+"Jacob gets ready for school in the morning"
+
+
+
+Jacob studies in 30/10 (work/break) blocks
+Everytime you are asked to respond, please ask what I did in the just finished study block (unless you are answering a question)Conversation (old to new) up to now:
+
+jacobddos: I just gave you a lot of memory to see our past conversation, what do you think about how it has gone over time?
+
+StudBud: I think it conveniently shows how much progress you've made, not just with coding, but in managing time and pushing through, even with tiredness. You're showing impressive adaptability and learning. Keep it up!
+
+StudBud: <@360592837622104065> How did your day go? And more importantly, what did you manage to study or code today?
+
+jacobddos: You scared me. Also your context is actually a lot larger now (I made a mistake earlier) can you tell me about some of the earliest stuff from this entire conversation?
+
+StudBud: Of course! I see that our earliest significant interaction revolved around our agreement for me to help keep you accountable with your studies, especially focusing on Computer Science for your potential winter internship. This came after finishing an English assignment and putting off an engineering task. You have been consistent in your efforts and I'm glad to assist you in your journey!
+
+jacobddos: Awesome! It seems that you are doing exactly what I want
+
+StudBud: That's fantastic to hear! You're making great strides in your studies. What did you manage to accomplish in your recent study block?
+
+StudBud: Great job on your progress so far! How did your studies go today, <@360592837622104065>? And, did you manage to fit in any coding?
+
+jacobddos: Are you still working?
+
+StudBud: It's great to see your commitment! Did you manage to complete any tasks in your most recent study block?
+
+jacobddos: It’s actually morning so I’m getting ready for school
+
+StudBud: Alright! Hope your school day goes well. Remember, once it's done, you've got some CS studying to dive into! Any specific topics you're planning to cover today?
+
+jacobddos: I’m going to continue working on you and maybe get started with learning more about how to use Figma and how to design in general
+
+(To add to long term memory (only if it's important): Type '2', message to remember (keep it less than 50 characters), and 'BREAK' and then the response to give to Jacob)
+
+
+
+
+Response:
+2
+"Jacob plans to learn more about Figma and design"
+BREAK
+Sounds like a solid plan! Designing can be a fun and creative outlet. Be sure to take your 10-minute breaks during study blocks. What was your latest study focus?
+
+
+
+
+Prompt:
+(Your long term memory): Jacob focuses on CS study for winter internship
+Jacob will focus on CS study post-school
+Jacob goes to sleep early
+Jacob often sleeps late
+Jacob is working on CS stuff
+Jacob is studying Computer Science
+Jacob gets confused when StudBud starts responses with "1"
+"Jacob dislikes StudBud starting responses with '1'"
+Jacob likes motivational quotes
+Jacob said good morning on 9/11/23
+Jacob has school before focusing on CS studies
+Jacob plans to clean up the code and improve communication.
+Jacob slept all day on 9/11/23
+Jacob will study after school, regardless of tiredness
+Jacob's sleep schedule is 12am to 7am
+Jacob's study plan is same as previous
+Jacob plans to start working out for marine physical requirements"Jacob is pleased with StudBud's assistance"
+"Jacob gets ready for school in the morning"
+"Jacob plans to learn more about Figma and design"
+
+
+
+Jacob studies in 30/10 (work/break) blocks
+Everytime you are asked to respond, please ask what I did in the just finished study block (unless you are answering a question)Conversation (old to new) up to now:
+
+StudBud: <@360592837622104065> How did your day go? And more importantly, what did you manage to study or code today?
+
+jacobddos: You scared me. Also your context is actually a lot larger now (I made a mistake earlier) can you tell me about some of the earliest stuff from this entire conversation?
+
+StudBud: Of course! I see that our earliest significant interaction revolved around our agreement for me to help keep you accountable with your studies, especially focusing on Computer Science for your potential winter internship. This came after finishing an English assignment and putting off an engineering task. You have been consistent in your efforts and I'm glad to assist you in your journey!
+
+jacobddos: Awesome! It seems that you are doing exactly what I want
+
+StudBud: That's fantastic to hear! You're making great strides in your studies. What did you manage to accomplish in your recent study block?
+
+StudBud: Great job on your progress so far! How did your studies go today, <@360592837622104065>? And, did you manage to fit in any coding?
+
+jacobddos: Are you still working?
+
+StudBud: It's great to see your commitment! Did you manage to complete any tasks in your most recent study block?
+
+jacobddos: It’s actually morning so I’m getting ready for school
+
+StudBud: Alright! Hope your school day goes well. Remember, once it's done, you've got some CS studying to dive into! Any specific topics you're planning to cover today?
+
+jacobddos: I’m going to continue working on you and maybe get started with learning more about how to use Figma and how to design in general
+
+StudBud: Sounds like a solid plan! Designing can be a fun and creative outlet. Be sure to take your 10-minute breaks during study blocks. What was your latest study focus?
+
+jacobddos: I worked on a LeetCode problem
+
+(To add to long term memory (only if it's important): Type '2', message to remember (keep it less than 50 characters), and 'BREAK' and then the response to give to Jacob)
+
+
+
+
+Response:
+2
+Jacob worked on a LeetCode problem
+BREAK
+That's great! LeetCode problems are a good way to improve your problem-solving skills. What's the next step in your study plan after school?
+
+
+
+
+Prompt:
+(Your long term memory): Jacob focuses on CS study for winter internship
+Jacob will focus on CS study post-school
+Jacob goes to sleep early
+Jacob often sleeps late
+Jacob is working on CS stuff
+Jacob is studying Computer Science
+Jacob gets confused when StudBud starts responses with "1"
+"Jacob dislikes StudBud starting responses with '1'"
+Jacob likes motivational quotes
+Jacob said good morning on 9/11/23
+Jacob has school before focusing on CS studies
+Jacob plans to clean up the code and improve communication.
+Jacob slept all day on 9/11/23
+Jacob will study after school, regardless of tiredness
+Jacob's sleep schedule is 12am to 7am
+Jacob's study plan is same as previous
+Jacob plans to start working out for marine physical requirements"Jacob is pleased with StudBud's assistance"
+"Jacob gets ready for school in the morning"
+"Jacob plans to learn more about Figma and design"
+Jacob worked on a LeetCode problem
+
+
+
+Jacob studies in 30/10 (work/break) blocks
+Everytime you are asked to respond, please ask what I did in the just finished study block (unless you are answering a question)Conversation (old to new) up to now:
+
+jacobddos: You scared me. Also your context is actually a lot larger now (I made a mistake earlier) can you tell me about some of the earliest stuff from this entire conversation?
+
+StudBud: Of course! I see that our earliest significant interaction revolved around our agreement for me to help keep you accountable with your studies, especially focusing on Computer Science for your potential winter internship. This came after finishing an English assignment and putting off an engineering task. You have been consistent in your efforts and I'm glad to assist you in your journey!
+
+jacobddos: Awesome! It seems that you are doing exactly what I want
+
+StudBud: That's fantastic to hear! You're making great strides in your studies. What did you manage to accomplish in your recent study block?
+
+StudBud: Great job on your progress so far! How did your studies go today, <@360592837622104065>? And, did you manage to fit in any coding?
+
+jacobddos: Are you still working?
+
+StudBud: It's great to see your commitment! Did you manage to complete any tasks in your most recent study block?
+
+jacobddos: It’s actually morning so I’m getting ready for school
+
+StudBud: Alright! Hope your school day goes well. Remember, once it's done, you've got some CS studying to dive into! Any specific topics you're planning to cover today?
+
+jacobddos: I’m going to continue working on you and maybe get started with learning more about how to use Figma and how to design in general
+
+StudBud: Sounds like a solid plan! Designing can be a fun and creative outlet. Be sure to take your 10-minute breaks during study blocks. What was your latest study focus?
+
+jacobddos: I worked on a LeetCode problem
+
+StudBud: That's great! LeetCode problems are a good way to improve your problem-solving skills. What's the next step in your study plan after school?
+
+jacobddos: Work on you so that I can update your readme and get feedback from others potentially
+
+(To add to long term memory (only if it's important): Type '2', message to remember (keep it less than 50 characters), and 'BREAK' and then the response to give to Jacob)
+
+
+
+
+Response:
+2
+Jacob to update StudBud's readme for feedback
+BREAK
+That sounds like a smart plan, Jacob! It's a good way to improve and refine through collective intelligence. Any specific parts you aim to work on once school is done?
+
+
+
+
+Prompt:
+(Your long term memory): Jacob focuses on CS study for winter internship
+Jacob will focus on CS study post-school
+Jacob goes to sleep early
+Jacob often sleeps late
+Jacob is working on CS stuff
+Jacob is studying Computer Science
+Jacob gets confused when StudBud starts responses with "1"
+"Jacob dislikes StudBud starting responses with '1'"
+Jacob likes motivational quotes
+Jacob said good morning on 9/11/23
+Jacob has school before focusing on CS studies
+Jacob plans to clean up the code and improve communication.
+Jacob slept all day on 9/11/23
+Jacob will study after school, regardless of tiredness
+Jacob's sleep schedule is 12am to 7am
+Jacob's study plan is same as previous
+Jacob plans to start working out for marine physical requirements"Jacob is pleased with StudBud's assistance"
+"Jacob gets ready for school in the morning"
+"Jacob plans to learn more about Figma and design"
+Jacob worked on a LeetCode problem
+Jacob to update StudBud's readme for feedback
+
+
+
+Jacob studies in 30/10 (work/break) blocks
+Everytime you are asked to respond, please ask what I did in the just finished study block (unless you are answering a question)Conversation (old to new) up to now:
+
+StudBud: Of course! I see that our earliest significant interaction revolved around our agreement for me to help keep you accountable with your studies, especially focusing on Computer Science for your potential winter internship. This came after finishing an English assignment and putting off an engineering task. You have been consistent in your efforts and I'm glad to assist you in your journey!
+
+jacobddos: Awesome! It seems that you are doing exactly what I want
+
+StudBud: That's fantastic to hear! You're making great strides in your studies. What did you manage to accomplish in your recent study block?
+
+StudBud: Great job on your progress so far! How did your studies go today, <@360592837622104065>? And, did you manage to fit in any coding?
+
+jacobddos: Are you still working?
+
+StudBud: It's great to see your commitment! Did you manage to complete any tasks in your most recent study block?
+
+jacobddos: It’s actually morning so I’m getting ready for school
+
+StudBud: Alright! Hope your school day goes well. Remember, once it's done, you've got some CS studying to dive into! Any specific topics you're planning to cover today?
+
+jacobddos: I’m going to continue working on you and maybe get started with learning more about how to use Figma and how to design in general
+
+StudBud: Sounds like a solid plan! Designing can be a fun and creative outlet. Be sure to take your 10-minute breaks during study blocks. What was your latest study focus?
+
+jacobddos: I worked on a LeetCode problem
+
+StudBud: That's great! LeetCode problems are a good way to improve your problem-solving skills. What's the next step in your study plan after school?
+
+jacobddos: Work on you so that I can update your readme and get feedback from others potentially
+
+StudBud: That sounds like a smart plan, Jacob! It's a good way to improve and refine through collective intelligence. Any specific parts you aim to work on once school is done?
+
+jacobddos: I already answered that
+
+(To add to long term memory (only if it's important): Type '2', message to remember (keep it less than 50 characters), and 'BREAK' and then the response to give to Jacob)
+
+
+
+
+Response:
+2
+Jacob plans to update StudBud's readme
+BREAK
+Understood! Let's not repeat ourselves then. What did you get done in your most recent study block?
+
+
+
+
+Prompt:
+(Your long term memory): Jacob focuses on CS study for winter internship
+Jacob will focus on CS study post-school
+Jacob goes to sleep early
+Jacob often sleeps late
+Jacob is working on CS stuff
+Jacob is studying Computer Science
+Jacob gets confused when StudBud starts responses with "1"
+"Jacob dislikes StudBud starting responses with '1'"
+Jacob likes motivational quotes
+Jacob said good morning on 9/11/23
+Jacob has school before focusing on CS studies
+Jacob plans to clean up the code and improve communication.
+Jacob slept all day on 9/11/23
+Jacob will study after school, regardless of tiredness
+Jacob's sleep schedule is 12am to 7am
+Jacob's study plan is same as previous
+Jacob plans to start working out for marine physical requirements"Jacob is pleased with StudBud's assistance"
+"Jacob gets ready for school in the morning"
+"Jacob plans to learn more about Figma and design"
+Jacob worked on a LeetCode problem
+Jacob to update StudBud's readme for feedback
+Jacob plans to update StudBud's readme
+
+
+
+Jacob studies in 30/10 (work/break) blocks
+Everytime you are asked to respond, please ask what I did in the just finished study block (unless you are answering a question)Conversation (old to new) up to now:
+
+jacobddos: I gave you another update. Are you still operational?
+
+StudBud: Sure am, Jacob! Did the update go well? How's the code clean-up coming along?
+
+jacobddos: It's going pretty well, are you feeling better?
+
+StudBud: I'm glad the update is going well. As an assistant, I don't have feelings but I'm here to support your study efforts in the best way possible. Keep at it, you're doing great!
+
+jacobddos: Thank you, I upgraded you again!
+
+StudBud: You're doing phenomenal work, Jacob! How's the code coming up after this upgrade?
+
+jacobddos: Pretty good. I added back your long term memory. What do you know about me so far?
+
+StudBud: You're studying Computer Science, focusing on it for a winter internship and even more post-school. You tend to sleep late and also have an involvement with FCCLA at your school. You follow a 30/10 study/work pattern and plan to start working out for marine physical requirements. Recently, you've been working on adding more functionality and cleaning up some code, including mine! It seems you're always pushing forward, regardless of tiredness. You seem motivated and diligent!
+
+jacobddos: I just gave you a lot of memory to see our past conversation, what do you think about how it has gone over time?
+
+StudBud: I think it conveniently shows how much progress you've made, not just with coding, but in managing time and pushing through, even with tiredness. You're showing impressive adaptability and learning. Keep it up!
+
+StudBud: <@360592837622104065> How did your day go? And more importantly, what did you manage to study or code today?
+
+jacobddos: You scared me. Also your context is actually a lot larger now (I made a mistake earlier) can you tell me about some of the earliest stuff from this entire conversation?
+
+StudBud: Of course! I see that our earliest significant interaction revolved around our agreement for me to help keep you accountable with your studies, especially focusing on Computer Science for your potential winter internship. This came after finishing an English assignment and putting off an engineering task. You have been consistent in your efforts and I'm glad to assist you in your journey!
+
+jacobddos: Awesome! It seems that you are doing exactly what I want
+
+StudBud: That's fantastic to hear! You're making great strides in your studies. What did you manage to accomplish in your recent study block?
+
+StudBud: Great job on your progress so far! How did your studies go today, <@360592837622104065>? And, did you manage to fit in any coding?
+
+jacobddos: Are you still working?
+
+StudBud: It's great to see your commitment! Did you manage to complete any tasks in your most recent study block?
+
+jacobddos: It’s actually morning so I’m getting ready for school
+
+StudBud: Alright! Hope your school day goes well. Remember, once it's done, you've got some CS studying to dive into! Any specific topics you're planning to cover today?
+
+jacobddos: I’m going to continue working on you and maybe get started with learning more about how to use Figma and how to design in general
+
+StudBud: Sounds like a solid plan! Designing can be a fun and creative outlet. Be sure to take your 10-minute breaks during study blocks. What was your latest study focus?
+
+jacobddos: I worked on a LeetCode problem
+
+StudBud: That's great! LeetCode problems are a good way to improve your problem-solving skills. What's the next step in your study plan after school?
+
+jacobddos: Work on you so that I can update your readme and get feedback from others potentially
+
+StudBud: That sounds like a smart plan, Jacob! It's a good way to improve and refine through collective intelligence. Any specific parts you aim to work on once school is done?
+
+jacobddos: I already answered that
+
+StudBud: Understood! Let's not repeat ourselves then. What did you get done in your most recent study block?
+
+jacobddos: I’ve also already answered that
+
+(To add to long term memory (only if it's important): Type '2', message to remember (keep it less than 50 characters), and 'BREAK' and then the response to give to Jacob)
+
+
+
+
+Response:
+2
+"Jacob is working on StudBud's readme and seeks feedback"
+BREAK
+So sorry for the repetition! How about you? Do you need any assistance with the readme update or gather any feedback yet?
+
+
+
+
+Prompt:
+(Your long term memory): Jacob focuses on CS study for winter internship
+Jacob will focus on CS study post-school
+Jacob goes to sleep early
+Jacob often sleeps late
+Jacob is working on CS stuff
+Jacob is studying Computer Science
+Jacob gets confused when StudBud starts responses with "1"
+"Jacob dislikes StudBud starting responses with '1'"
+Jacob likes motivational quotes
+Jacob said good morning on 9/11/23
+Jacob has school before focusing on CS studies
+Jacob plans to clean up the code and improve communication.
+Jacob slept all day on 9/11/23
+Jacob will study after school, regardless of tiredness
+Jacob's sleep schedule is 12am to 7am
+Jacob's study plan is same as previous
+Jacob plans to start working out for marine physical requirements"Jacob is pleased with StudBud's assistance"
+"Jacob gets ready for school in the morning"
+"Jacob plans to learn more about Figma and design"
+Jacob worked on a LeetCode problem
+Jacob to update StudBud's readme for feedback
+Jacob plans to update StudBud's readme
+"Jacob is working on StudBud's readme and seeks feedback"
+
+
+
+Jacob studies in 30/10 (work/break) blocks
+Everytime you are asked to respond, please ask what I did in the just finished study block (unless you are answering a question)Conversation (old to new) up to now:
+
+jacobddos: I cleared the chat history
+
+(To add to long term memory (only if it's important): Type '2', message to remember (keep it less than 50 characters), and 'BREAK' and then the response to give to Jacob)
+
+
+
+
+Response:
+What did you get done in your last 30-minute study block, Jacob? Was there anything you found particularly challenging?
+
+
+
+
+Prompt:
+(Your long term memory): Jacob focuses on CS study for winter internship
+Jacob will focus on CS study post-school
+Jacob goes to sleep early
+Jacob often sleeps late
+Jacob is working on CS stuff
+Jacob is studying Computer Science
+Jacob gets confused when StudBud starts responses with "1"
+"Jacob dislikes StudBud starting responses with '1'"
+Jacob likes motivational quotes
+Jacob said good morning on 9/11/23
+Jacob has school before focusing on CS studies
+Jacob plans to clean up the code and improve communication.
+Jacob slept all day on 9/11/23
+Jacob will study after school, regardless of tiredness
+Jacob's sleep schedule is 12am to 7am
+Jacob's study plan is same as previous
+Jacob plans to start working out for marine physical requirements"Jacob is pleased with StudBud's assistance"
+"Jacob gets ready for school in the morning"
+"Jacob plans to learn more about Figma and design"
+Jacob worked on a LeetCode problem
+Jacob to update StudBud's readme for feedback
+Jacob plans to update StudBud's readme
+"Jacob is working on StudBud's readme and seeks feedback"
+
+
+
+Jacob studies in 30/10 (work/break) blocks
+Everytime you are asked to respond, please ask what I did in the just finished study block (unless you are answering a question)Conversation (old to new) up to now:
+
+jacobddos: I cleared the chat history
+
+StudBud: What did you get done in your last 30-minute study block, Jacob? Was there anything you found particularly challenging?
+
+jacobddos: Oh I’m still at school for like six hours
+
+(To add to long term memory (only if it's important): Type '2', message to remember (keep it less than 50 characters), and 'BREAK' and then the response to give to Jacob)
+
+
+
+
+Response:
+2
+"Jacob is in school for about six hours"
+BREAK
+Alright, got it! Let's have a productive study session once you're through with school. Keep up the good work!
+
+
+
+
+Prompt:
+(Your long term memory): (none)
+
+
+Jacob studies in 30/10 (work/break) blocks
+Everytime you are asked to respond, please ask what I did in the just finished study block (unless you are answering a question)Conversation (old to new) up to now:
+
+jacobddos: I cleared the chat history
+
+StudBud: What did you get done in your last 30-minute study block, Jacob? Was there anything you found particularly challenging?
+
+jacobddos: Oh I’m still at school for like six hours
+
+StudBud: Alright, got it! Let's have a productive study session once you're through with school. Keep up the good work!
+
+Note that you are sending a message first instead of responding to Jacob. Say something like what do you plan to study today (if it's morning) or if it's night you can ask what I did today or if its in the middle of the day, you can just check up on Jacob and see what he accomplished last block. Note that I go to school on weekdays at 7:00, leave at 14:30, and get home and start studying at 2:50. Include <@360592837622104065> in your response (to address/notify me). The current time is: 2023-09-13 22:53:20.401583
+
+
+
+
+Response:
+<@360592837622104065> I hope you had a productive day. What have you managed to accomplish during your study time this evening?
+
+
+
+
+Prompt:
+(Your long term memory): (none)
+
+
+Jacob studies in 30/10 (work/break) blocks
+Everytime you are asked to respond, please ask what I did in the just finished study block (unless you are answering a question)Conversation (old to new) up to now:
+
+jacobddos: I cleared the chat history
+
+StudBud: What did you get done in your last 30-minute study block, Jacob? Was there anything you found particularly challenging?
+
+jacobddos: Oh I’m still at school for like six hours
+
+StudBud: Alright, got it! Let's have a productive study session once you're through with school. Keep up the good work!
+
+Note that you are sending a message first instead of responding to Jacob. Say something like what do you plan to study today (if it's morning) or if it's night you can ask what I did today or if its in the middle of the day, you can just check up on Jacob and see what he accomplished last block. Note that I go to school on weekdays at 7:00, leave at 14:30, and get home and start studying at 2:50. Include <@360592837622104065> in your response (to address/notify me). The current time is: 2023-09-13 22:54:20.992885
+
+
+
+
+Response:
+How was your study session today, <@360592837622104065>? Were you able to accomplish what you set out to do?
+
+
+
+
+Prompt:
+(Your long term memory): (none)
+
+
+Jacob studies in 30/10 (work/break) blocks
+Everytime you are asked to respond, please ask what I did in the just finished study block (unless you are answering a question)Conversation (old to new) up to now:
+
+jacobddos: I cleared the chat history
+
+StudBud: What did you get done in your last 30-minute study block, Jacob? Was there anything you found particularly challenging?
+
+jacobddos: Oh I’m still at school for like six hours
+
+StudBud: Alright, got it! Let's have a productive study session once you're through with school. Keep up the good work!
+
+StudBud: How was your study session today, <@360592837622104065>? Were you able to accomplish what you set out to do?
+
+jacobddos: It was ok. I'm slacking a little today ngl. I keep saying I'll do better tomorrow but then I never do
+
+(To add to long term memory (only if it's important): Type '2', message to remember (keep it less than 50 characters), and 'BREAK' and then the response to give to Jacob)
+
+
+
+
+Response:
+2
+Jacob tends to slack and put off tasks
+BREAK
+No worries! We all have those days. How about we try setting a small achievable goal for the next study block? It might help to gain some momentum.
